@@ -30,7 +30,7 @@ def get_default():
     config.normal = [0.0, 1.0, 0.0]
 
     # Constraint
-    config.handle_motion = "periodic"  # 'periodic' | 'pulse'
+    config.handle_motion = "pulse"  # 'periodic' | 'pulse'
     ## Periodic motion
     config.handle_period = 1.0
     config.handle_tilt_angle = np.pi / 12
