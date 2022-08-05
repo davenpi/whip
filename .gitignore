@@ -1,0 +1,6 @@
+*.npy
+*.pkl
+*.DS_Store
+*venv/
+*.ipynb_checkpoints
+*__pychache__
